@@ -1,0 +1,25 @@
+# compiled output
+.parcel-cache
+node_modules
+
+# OS
+.DS_Store
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9
+*.launch
+.settings
+*.sublime-workspace
+yarn-error.log
+
+# local env files
+.env.development
+.env.production
+
+yarn.lock
+package-lock.json
+/.vs
+.vscode/launch.json

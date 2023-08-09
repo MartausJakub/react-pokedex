@@ -1,0 +1,19 @@
+{
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "useTabs": false,
+    "overrides": [
+        {
+            "files": [
+                "*.scss",
+                "*.css",
+                "*.yml",
+                "*.yaml"
+            ],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
